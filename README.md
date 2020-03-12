@@ -1,2 +1,3 @@
 #проект "Window"
-HTML, CSS, JS https://premakanda.github.io/window.github.io/
+HTML, CSS, Bootstrap JS, Webpack, Slick-slider, Animation
+https://premakanda.github.io/window.github.io/
